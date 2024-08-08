@@ -11,5 +11,4 @@ echo.
 echo ÍøÒ³Ö÷Ò³
 echo.www.github.com
 echo.
-pause>nul
-exit
+pause
